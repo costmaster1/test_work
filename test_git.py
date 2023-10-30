@@ -1,2 +1,1 @@
-print("Hellow World!!!/////////")
-print("gggggggggggggg")
+print("Мой новый коммит !!!")
